@@ -18,4 +18,8 @@ Acesse o site clicando no link abaixo (via GitHub Pages):
 - JavaScript
 
 ## 📦 Como rodar localmente
-1. Clone o repositório:
+1. Clone o repositório:  https://github.com/seuusuario/hoje-vai-ter
+2. Abra o `index.html` no navegador ou use o Live Server no VS Code.
+
+## ❤️ Feito com carinho por Luiz Felipe
+
